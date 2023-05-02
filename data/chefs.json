@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "_id": 1,
         "picture": "https://example.com/chef1.jpg",
         "name": "Gordon Ramsay",
         "yearsOfExperience": 10,
@@ -9,7 +9,7 @@
         "bio": "Gordon James Ramsay is a British chef, restaurateur, writer, and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total and currently hold a total of seven. Ramsay is known for his fiery temper and use of expletives. He has also appeared on several cooking reality shows."
     },
     {
-        "id": 2,
+        "_id": 2,
         "picture": "https://example.com/chef2.jpg",
         "name": "Jamie Oliver",
         "yearsOfExperience": 5,
@@ -18,7 +18,7 @@
         "bio": "James Trevor Oliver MBE is a British chef and restaurateur. He is known for his approachable cuisine, which has led him to front numerous television shows and open many restaurants. Born and raised in Clavering, Essex, he was educated in London before joining Antonio Carluccio's Neal Street restaurant as a pastry chef. Oliver then moved to The River Café, Fulham, as a sous chef."
     },
     {
-        "id": 3,
+        "_id": 3,
         "picture": "https://example.com/chef3.jpg",
         "name": "Nigella Lawson",
         "yearsOfExperience": 15,
@@ -27,7 +27,7 @@
         "bio": "Nigella Lucy Lawson is an English food writer and television cook. She is the daughter of Nigel Lawson, a former Chancellor of the Exchequer, and Vanessa Lawson QC, a barrister. She attended Godolphin and Latymer School before graduating from Lady Margaret Hall, Oxford University. Lawson has written several bestselling cookbooks and hosted several cooking shows."
     },
     {
-        "id": 4,
+        "_id": 4,
         "picture": "https://example.com/chef4.jpg",
         "name": "Anthony Bourdain",
         "yearsOfExperience": 7,
@@ -36,7 +36,7 @@
         "bio": "Anthony Michael Bourdain was an American chef, author, and television personality. He was a 1978 graduate of The Culinary Institute of America and a veteran of numerous professional kitchens. Bourdain was best known for his travelogue programs Anthony Bourdain: No Reservations on Travel Channel and later Anthony Bourdain: Parts Unknown on CNN."
     },
     {
-        "id": 5,
+        "_id": 5,
         "picture": "https://example.com/chef5.jpg",
         "name": "Ina Garten",
         "yearsOfExperience": 12,
@@ -45,7 +45,7 @@
         "bio": "Ina Rosenberg Garten is an American author and host of the Food Network program Barefoot Contessa. Known for her love of all things culinary and her warm personality, Garten has become one of the most beloved figures in the food world today. She has written several bestselling cookbooks and hosted several cooking shows."
     },
     {
-        "id": 6,
+        "_id": 6,
         "picture": "https://example.com/chef6.jpg",
         "name": "Emeril Lagasse",
         "yearsOfExperience": 20,
