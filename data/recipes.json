@@ -1,0 +1,50 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Alfredo",
+      "recipe_pic": "https://example.com/chef1.jpg",
+      "ingredients": ["chicken", "fettuccine pasta", "heavy cream", "butter", "garlic"],
+      "cookingMethod": "1. Cook pasta according to package instructions. 2. In a large skillet over medium heat, cook chicken until no longer pink. 3. Add garlic and cook for 1 minute. 4. Add heavy cream and butter and bring to a simmer. 5. Add cooked pasta and toss to coat.",
+      "rating": 4.5
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Beef Tacos",
+      "recipe_pic": "https://example.com/chef1.jpg",
+      "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "tomatoes"],
+      "cookingMethod": "1. Brown ground beef in a large skillet over medium-high heat. 2. Add taco seasoning and cook for an additional minute. 3. Heat taco shells according to package instructions. 4. Assemble tacos with beef, lettuce, and tomatoes.",
+      "rating": 3.5
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_pic": "https://example.com/chef1.jpg",
+      "ingredients": ["flour", "baking soda", "salt", "butter", "sugar"],
+      "cookingMethod": "1. Preheat oven to 375°F (190°C). 2. In a medium bowl, whisk together flour, baking soda, and salt. 3. In a large bowl, beat butter and sugar until light and fluffy. 4. Beat in egg and vanilla extract until well combined. 5. Gradually add flour mixture to butter mixture until just combined. Stir in chocolate chips. 6. Drop dough by rounded tablespoons onto ungreased baking sheets and bake for 8-10 minutes.",
+      "rating": 5
+    },
+     {
+      "recipe_id":4,
+      "recipe_name": "Spaghetti Bolognese",
+      "recipe_pic": "https://example.com/chef1.jpg",
+      "ingredients": ["spaghetti pasta", "ground beef", "onion", "garlic", "canned tomatoes"],
+      "cookingMethod": "1. Cook pasta according to package instructions. 2. In a large skillet over medium heat, cook ground beef until no longer pink. 3. Add onion and garlic and cook for an additional minute or until fragrant. 4. Add canned tomatoes and bring to a simmer for about 10 minutes or until sauce thickens slightly. 5. Serve sauce over cooked pasta.",
+      "rating":4
+     },
+     {
+       "recipe_id":5,
+       "recipe_name":"Chicken Fajitas",
+       "recipe_pic": "https://example.com/chef1.jpg",
+       "ingredients":["chicken breast","bell peppers","onion","taco seasoning","flour tortillas"],
+       "cookingMethod":"1.Preheat oven to 400°F (200°C).2.Slice chicken breast into thin strips and season with taco seasoning mix according to package instructions.Set aside for at least ten minutes or overnight in the refrigerator for better flavor absorption (optional).3.In a large skillet over medium-high heat, cook chicken strips until no longer pink then add sliced bell peppers and onion and cook for an additional minute or until vegetables are tender-crisp .4.Warm tortillas in the oven for about five minutes or until heated through then assemble fajitas with chicken mixture.",
+       "rating":4
+     },
+     {
+       "recipe_id":6,
+       "recipe_name":"Beef Stroganoff",
+       "recipe_pic": "https://example.com/chef1.jpg",
+       "ingredients":["beef sirloin steak","egg noodles","sour cream","onion soup mix","mushrooms"],
+       "cookingMethod":"1.Cook egg noodles according to package instructions then set aside .2.Slice beef sirloin steak into thin strips then brown in a large skillet over medium-high heat .3.Add onion soup mix ,mushrooms ,and enough water to cover the meat then bring to a boil .4.Reduce heat then cover and simmer for about an hour or until meat is tender .5.Stir in sour cream then serve over cooked egg noodles.",
+       "rating":4
+     }
+  ]
